@@ -2,12 +2,12 @@
     "name": "LoboCoin",
     "symbol": "LBC",
     "description": "LoboCoin, un token experimental creado por estudiantes de la BUAP para unir a la comunidad universitaria con blockchain. Pronto tendremos un DAO para financiar proyectos estudiantiles!",
-    "image": "https://raw.githubusercontent.com/tu-usuario/lobocoin-assets/main/lobocoin-logo.jpg",
+    "image": "https://raw.githubusercontent.com/metricasakura/lobocoin/refs/heads/main/assets/lobocoin-logo.jpg",
     "attributes": [],
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/tu-usuario/lobocoin-assets/main/lobocoin-logo.jpg",
+                "uri": "https://raw.githubusercontent.com/metricasakura/lobocoin/refs/heads/main/assets/lobocoin-logo.jpg",
                 "type": "image/jpg"
             }
         ],
